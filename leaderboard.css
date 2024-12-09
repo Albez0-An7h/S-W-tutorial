@@ -139,10 +139,11 @@ td{
 }
 footer{
     text-align: center;
+    width: 93vw;
     padding: 10px;
     background-color: lightgreen;
     bottom: 0;
-    position: sticky;
+    position: fixed;
 }
 .Participant{
     background-color: hsl(0, 0%, 93%);
